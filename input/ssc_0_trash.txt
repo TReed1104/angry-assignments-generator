@@ -1,11 +1,11 @@
 SSC Trash 
 --------------------
-{Skull} = <tank_0> - (<healer_0>)
-{Cross} = <tank_1> - (<healer_1>)
-{Square}{Moon} = <tank_2> - (<healer_2>)
+{Skull} = <tank_1> - (<healer_1>)
+{Cross} = <tank_2> - (<healer_2>)
+{Square}{Moon} = <tank_3> - (<healer_3>)
 
 |cRedCC On Request:|r
-{circle} - <mage_0>
-{star} - <mage_1>
-{triangle} - <warlock_1>
-{diamond} - <warlock_1>
+{circle} - <polymorph_1>
+{star} - <polymorph_2>
+{triangle} - <banish_1>
+{diamond} - <banish_2>
