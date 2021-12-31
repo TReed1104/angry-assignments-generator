@@ -1,3 +1,6 @@
+## Imports
+import os
+
 ## Cnfigurations
 configFile = "config.json"
 inputDirectory = "input/"
