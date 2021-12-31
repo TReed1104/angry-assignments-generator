@@ -35,6 +35,13 @@ def setRaidAssignments(fileName):
     ## Save the parsed AA file
     writeStringToFile(outputDirectory + fileName, fileData)
 
+## Get the raider information to replace the placeholder token with
+def GetFormattedRaiderName(placeholder):
+    raiderName = configData[placeholder]
+    raiderClass = configData["roster"][raiderName]
+    formattedRaiderName = f"|c{raiderClass}{raiderName}|r"
+    return formattedRaiderName
+
 ## App entry
 if __name__ == '__main__':
     print("> Compiling Angry Assignments")
@@ -43,9 +50,6 @@ if __name__ == '__main__':
     configFileName = "config.json"
     inputDirectory = "input/"
     outputDirectory = "output/"
-
-    ## Formatting
-    tokenFormat = "|c{class}{name}|r"
 
     ## Load the config json file
     configFile = open(configFileName)
