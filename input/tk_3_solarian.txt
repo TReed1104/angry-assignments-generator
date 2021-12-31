@@ -1,0 +1,12 @@
+Solarian
+--------------------
+Solarian - <tank_3> - (<healer_3>) (MD: <hunter_1>, <hunter_2>, <hunter_3>)
+
+(<healer_1> + <healer_2>) - Missiles Targets
+
+{skull} Stun + Interupt - <Interrupt_1>, <Interrupt_3>
+{cross} Stun + Interupt - <Interrupt_2>, <Interrupt_4>
+
+|cRedSOLARIAN WRATH IS NOW GEDDON BOMB - MOVE OUT|r
+
+|cRedHeroism - 5 seconds after pull|r

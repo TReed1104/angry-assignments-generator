@@ -1,0 +1,15 @@
+Vashj
+--------------------
+P1 & P3:
+<tank_3> - (<healer_1> + <healer_2>)
+
+P2:
+Nagas Far - <tank_1> - (<healer_1>)
+Nagas Entrance - <tank_2> - (<healer_2>)
+
+TL - {star} - <hunter_1> + <healer_1>
+TR - {circle} - <hunter_2> + <healer_2>
+BR - {triangle} - <hunter_3> + <healer_5>
+BL - {diamond} - <hunter_4> + <healer_4>
+
+|cRedHeroism - P3|r
