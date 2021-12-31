@@ -28,6 +28,17 @@ def writeStringToFile(fileName, stringToWrite):
     except (OSError, IOError) as error:
         print(">>> ERROR! - An error occured:", error)
 
+## Input the raid member names
+def setRaidAssignments(fileName):
+    print(">> Reading File:", fileName)
+    ## Read in the AA file
+    fileData = readFileToString(inputDirectory + fileName)
+
+    ## Find and replace assignment tokens e.g. <tank_0>
+
+    ## Save the parsed AA file
+    writeStringToFile(outputDirectory + fileName, fileData)
+
 ## App entry
 if __name__ == '__main__':
     print("> Compiling Angry Assignments")
