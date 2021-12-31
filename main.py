@@ -1,4 +1,5 @@
 ## Imports
+from argparse import ArgumentParser
 import os
 import json
 
@@ -46,14 +47,19 @@ def GetFormattedRaiderName(placeholder):
 if __name__ == '__main__':
     print("> Compiling Angry Assignments")
 
-    ## Setup
-    configFileName = "config.json"
-    inputDirectory = "input/"
-    outputDirectory = "output/"
+    ## Setup the command-line arguments
+    argParser = ArgumentParser(description='AA generator for the Double Trouble Raids')
+    argParser.add_argument("-i", "--input", dest="config", help="The config file to use", type=str, default="config.json")
+    args = argParser.parse_args()
 
-    ## Load the config json file
-    configFile = open(configFileName)
+    ## Setup
+    inputDirectory = "templates/"
+    outputDirectory = "bin/"
+
+    ## Load the config json 
+    configFile = open(args.config)
     configData = json.load(configFile)
+    configFile.close()
 
     ## Create the output directory
     try:
