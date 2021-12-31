@@ -19,6 +19,15 @@ def readFileToString(fileName):
         print(">>> ERROR! - An error occured:", error)
         return parsedFile
 
+## Write the output AAs to file
+def writeStringToFile(fileName, stringToWrite):
+    try:
+        outputFile = open(fileName, "w")
+        outputFile.write(stringToWrite)
+        outputFile.close()
+    except (OSError, IOError) as error:
+        print(">>> ERROR! - An error occured:", error)
+
 ## App entry
 if __name__ == '__main__':
     print("> Compiling Angry Assignments")
