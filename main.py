@@ -6,6 +6,9 @@ configFile = "config.json"
 inputDirectory = "input/"
 outputDirectory = "output/"
 
+## Formatting
+tokenFormat = "|c{class}{name}|r"
+
 ## Read the file
 def readFileToString(fileName):
     parsedFile = ""
