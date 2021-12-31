@@ -32,6 +32,9 @@ def setRaidAssignments(fileName):
     fileData = readFileToString(inputDirectory + fileName)
 
     ## Find and replace assignment tokens e.g. <tank_0>
+    for placeholderToken in configData["assignments"]:
+        if placeholderToken != "":
+            fileData = fileData.replace(f"<{placeholderToken}>", GetFormattedRaiderName(placeholderToken))
 
     ## Save the parsed AA file
     writeStringToFile(outputDirectory + fileName, fileData)
