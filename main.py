@@ -1,13 +1,6 @@
 ## Imports
 import os
-
-## Cnfigurations
-configFile = "config.json"
-inputDirectory = "input/"
-outputDirectory = "output/"
-
-## Formatting
-tokenFormat = "|c{class}{name}|r"
+import json
 
 ## Read the file
 def readFileToString(fileName):
@@ -45,6 +38,18 @@ def setRaidAssignments(fileName):
 ## App entry
 if __name__ == '__main__':
     print("> Compiling Angry Assignments")
+
+    ## Setup
+    configFileName = "config.json"
+    inputDirectory = "input/"
+    outputDirectory = "output/"
+
+    ## Formatting
+    tokenFormat = "|c{class}{name}|r"
+
+    ## Load the config json file
+    configFile = open(configFileName)
+    configData = json.load(configFile)
 
     ## Create the output directory
     try:
