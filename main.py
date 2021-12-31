@@ -37,7 +37,7 @@ def setRaidAssignments(fileName):
 
 ## Get the raider information to replace the placeholder token with
 def GetFormattedRaiderName(placeholder):
-    raiderName = configData[placeholder]
+    raiderName = configData["assignments"][placeholder]
     raiderClass = configData["roster"][raiderName]
     formattedRaiderName = f"|c{raiderClass}{raiderName}|r"
     return formattedRaiderName
