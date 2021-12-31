@@ -50,3 +50,7 @@ if __name__ == '__main__':
     except FileExistsError:
         pass
 
+    ## Iterate through the supplied AA base files
+    for fileToParse in os.listdir(inputDirectory):
+        ## Parse the files and replace the values with the assigned raiders
+        setRaidAssignments(fileToParse)
