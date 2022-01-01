@@ -4,7 +4,7 @@ import os
 import json
 
 ## Read the file
-def read_file_to_string(fileName):
+def readFileToString(fileName):
     parsedFile = ""
     try:
         ## Open the file, read the contents into a string keeping formatting
@@ -21,7 +21,7 @@ def read_file_to_string(fileName):
         return parsedFile
 
 ## Write the output AAs to file
-def write_string_to_file(fileName, stringToWrite):
+def writeStringToFile(fileName, stringToWrite):
     try:
         ## Create a new file, write the string to the file and save it
         outputFile = open(fileName, "w")
@@ -33,25 +33,25 @@ def write_string_to_file(fileName, stringToWrite):
         print(">>> ERROR! - An error occured:", error)
 
 ## Input the raid member names
-def set_raid_assignments(fileName):
+def setRaidAssignments(fileName):
     ## Program flow print - more for debugging than anything
     print(">> Parsing Template:", fileName)
 
     ## Read in the AA file
-    fileData = read_file_to_string(inputDirectory + fileName)
+    fileData = readFileToString(inputDirectory + fileName)
 
     ## Find and replace assignment tokens e.g. <tank_0>
     for placeholderToken in configData["assignments"]:
         ## Check the placeholder has a value to set
         if placeholderToken != "":
             ## Replace the placeholder with the raider name, formatted with their class colour
-            fileData = fileData.replace(f"<{placeholderToken}>", get_formatted_raider_name(placeholderToken))
+            fileData = fileData.replace(f"<{placeholderToken}>", getFormattedRaidersName(placeholderToken))
 
     ## Save the parsed AA to an output file
-    write_string_to_file(outputDirectory + fileName, fileData)
+    writeStringToFile(outputDirectory + fileName, fileData)
 
 ## Get the raider information to replace the placeholder token with
-def get_formatted_raider_name(placeholder):
+def getFormattedRaidersName(placeholder):
     ## Get the raider details from the config file
     raiderName = configData["assignments"][placeholder]
     raiderClass = configData["roster"][raiderName]
@@ -91,4 +91,4 @@ if __name__ == '__main__':
     ## Iterate through the templates found in the specified directory
     for fileToParse in os.listdir(inputDirectory):
         ## Parse the files and replace the values with the assigned raiders
-        set_raid_assignments(fileToParse)
+        setRaidAssignments(fileToParse)
