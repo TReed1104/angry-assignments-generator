@@ -62,15 +62,12 @@ def GetFormattedRaiderName(placeholder):
 
 ## Main thread check
 if __name__ == '__main__':
-    ## Entry point output, just for context in the command-line
-    print("> Compiling Angry Assignments")
-
     ## Setup the file directories
     inputDirectory = "templates/"
     outputDirectory = "bin/"
 
     ## Setup the command-line arguments
-    argParser = ArgumentParser(description='AA generator for the Double Trouble Raids')
+    argParser = ArgumentParser(description='A Python app for quickly generating AngryAssignment messages for WoW TBC-Classic')
     argParser.add_argument("-i", "--input", dest="config", help="The config file to use", type=str, default="config.json")
 
     ## Parse the arguments from the command line to be usable
@@ -80,6 +77,9 @@ if __name__ == '__main__':
     configFile = open(args.config)
     configData = json.load(configFile)
     configFile.close()
+
+    ## Entry point output, just for context in the command-line
+    print("> Generating AngryAssignments")
 
     ## Create the output directory
     try:
