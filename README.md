@@ -17,15 +17,15 @@ python main.py [--help] [--input config_file]
 
 Example usage:
 ```bash
-python Ivaldi.py -h
-python Ivaldi.py -i config.json
-python Ivaldi.py -i red_team.json
-python Ivaldi.py -i blue_team.json
+python main.py -h
+python main.py -i config.json
+python main.py -i red_team.json
+python main.py -i blue_team.json
 
-python Ivaldi.py --help
-python Ivaldi.py --input config.json
-python Ivaldi.py --input red_team.json
-python Ivaldi.py --input blue_team.json
+python main.py --help
+python main.py --input config.json
+python main.py --input red_team.json
+python main.py --input blue_team.json
 ```
 
 <br>
