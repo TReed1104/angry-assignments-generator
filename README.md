@@ -21,6 +21,7 @@ python Ivaldi.py -h
 python Ivaldi.py -i config.json
 python Ivaldi.py -i red_team.json
 python Ivaldi.py -i blue_team.json
+
 python Ivaldi.py --help
 python Ivaldi.py --input config.json
 python Ivaldi.py --input red_team.json
