@@ -33,7 +33,7 @@ def writeStringToFile(fileName, stringToWrite):
         print(">>> ERROR! - An error occured:", error)
 
 ## Input the raid member names
-def setRaidAssignments(fileName):
+def parseTemplateFile(fileName):
     ## Program flow print - more for debugging than anything
     print(">> Parsing Template:", fileName)
 
@@ -45,13 +45,13 @@ def setRaidAssignments(fileName):
         ## Check the placeholder has a value to set
         if placeholderToken != "":
             ## Replace the placeholder with the raider name, formatted with their class colour
-            fileData = fileData.replace(f"<{placeholderToken}>", getFormattedRaidersName(placeholderToken))
+            fileData = fileData.replace(f"<{placeholderToken}>", formatNameFromRoster(placeholderToken))
 
     ## Save the parsed AA to an output file
     writeStringToFile(outputDirectory + fileName, fileData)
 
 ## Get the raider information to replace the placeholder token with
-def getFormattedRaidersName(placeholder):
+def formatNameFromRoster(placeholder):
     ## Get the raider details from the config file
     raiderName = configData["assignments"][placeholder]
     raiderClass = configData["roster"][raiderName]
@@ -91,4 +91,4 @@ if __name__ == '__main__':
     ## Iterate through the templates found in the specified directory
     for fileToParse in os.listdir(inputDirectory):
         ## Parse the files and replace the values with the assigned raiders
-        setRaidAssignments(fileToParse)
+        parseTemplateFile(fileToParse)
