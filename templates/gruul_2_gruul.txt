@@ -1,2 +1,5 @@
 Gruul
 --------------------
+<tank_1> - (<healer_1> + <healer_4>)
+<tank_2> - (<healer_2> + <healer_4>)
+Raid - Rest & when not actively healing.

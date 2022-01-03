@@ -1,2 +1,6 @@
 High King Maulgar
 --------------------
+Maulgar Tank: <tank_1> - (<healer_1> + <healer_4>)
+Olm Tanks: <tank_2> + <tank_3> - (<healer_2> + <healer_4>)
+Krosh Mage: <tank_mage> - <healer_3>
+Kiggler Tank: <hunter_1> + <hunter_2> - <healer_5>
