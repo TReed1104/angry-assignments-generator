@@ -43,7 +43,7 @@ def parseTemplateFile(fileName):
     ## Find and replace assignment tokens e.g. <tank_0>
     for placeholderToken in configData["assignments"]:
         ## Check the placeholder has a value to set
-        if placeholderToken != "":
+        if configData["assignments"][placeholderToken] != "":
             ## Replace the placeholder with the raider name, formatted with their class colour
             fileData = fileData.replace(f"<{placeholderToken}>", formatNameFromRoster(placeholderToken))
 
