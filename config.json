@@ -5,11 +5,6 @@
         "tank_3": "Teebs",
         "tank_4": "Avei",
 
-        "tank_nature": "Koz",
-        "tank_frost": "Ahem",
-        "tank_mixed": "Teebs",
-        "tank_warlock": "Navi",
-
         "healer_1": "Andy",
         "healer_2": "Perdis",
         "healer_3": "Cinder",
@@ -38,8 +33,25 @@
         "hunter_1": "Stubb",
         "hunter_2": "Pulsears",
         "hunter_3": "Tirguth",
-        "hunter_4": "Kalliya",
-        "hunter_5": "Virgil"
+        "hunter_4": "Virgil",
+        "hunter_5": "Kalliya",
+
+        "tank_nature": "Koz",
+        "tank_frost": "Ahem",
+        "tank_mixed": "Teebs",
+        "tank_warlock": "Navi",
+        "tank_mage": "Forkie",
+
+        "cube_a": "Pulsears",
+        "cube_b": "Wizzy",
+        "cube_c": "Daizu",
+        "cube_d": "Tharaseer",
+        "cube_e": "Uryk",
+        "cube_a_backup": "Tirguth",
+        "cube_b_backup": "Rendy",
+        "cube_c_backup": "Larky",
+        "cube_d_backup": "Orrio",
+        "cube_e_backup": "Navi"
     },
     "roster": {
         "Koz": "Warrior",
