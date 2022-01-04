@@ -4,8 +4,8 @@ Solarian - <tank_3> - (<healer_3>) (MD: <hunter_1>, <hunter_2>, <hunter_3>)
 
 (<healer_1> + <healer_2>) - Missiles Targets
 
-{skull} Stun + Interupt - <Interrupt_1>, <Interrupt_3>
-{cross} Stun + Interupt - <Interrupt_2>, <Interrupt_4>
+{skull} Stun + Interupt - <interrupt_1>, <interrupt_3>
+{cross} Stun + Interupt - <interrupt_2>, <interrupt_4>
 
 |cRedSOLARIAN WRATH IS NOW GEDDON BOMB - MOVE OUT|r
 
