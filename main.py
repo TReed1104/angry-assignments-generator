@@ -41,21 +41,21 @@ def parseTemplateFile(fileName):
     fileData = readFileToString(inputDirectory + fileName)
 
     ## Find and replace assignment tokens e.g. <tank_0>
-    for placeholderToken in configData["assignments"]:
+    for assignmentTag in configData["assignments"]:
         ## Replace the placeholder with the raider name, formatted with their class colour
-        fileData = fileData.replace(f"<{placeholderToken}>", formatNameFromRoster(placeholderToken))
+        fileData = fileData.replace(f"<{assignmentTag}>", colourNameByRosterClass(assignmentTag))
     
     ## Find and replace the heroism conditions e.g. <heroism_alar>
-    for placeholderToken in configData["heroism_conditions"]:
-        ## Replace the placeholder with the heroism condition, formatted in red text
-        fileData = fileData.replace(f"<{placeholderToken}>", formatHeroismCondition(placeholderToken))
+    for additionalTag in configData["additional_tags"]:
+        ## Replace the placeholder with the additional tag condition
+        fileData = fileData.replace(f"<{additionalTag}>", colourAdditionalTagText(additionalTag))
 
 
     ## Save the parsed AA to an output file
     writeStringToFile(outputDirectory + fileName, fileData)
 
 ## Get the raider information to replace the placeholder token with
-def formatNameFromRoster(placeholder):
+def colourNameByRosterClass(placeholder):
     ## Get the raider details from the config file
     raiderName = configData["assignments"][placeholder]
 
@@ -70,17 +70,18 @@ def formatNameFromRoster(placeholder):
     formattedRaiderName = f"|c{raiderClass}{raiderName}|r"
     return formattedRaiderName
 
-def formatHeroismCondition(placeholder):
-    ## Get the heroism text
-    heroismText = configData["heroism_conditions"][placeholder]
+## Format the additional tag content strings for replacing in the text
+def colourAdditionalTagText(placeholder, colour = "Red"):
+    ## Get the tag text
+    tagText = configData["additional_tags"][placeholder]
 
     ## Check the placeholder has a value to set
-    if heroismText == "":
+    if tagText == "":
         return ""
 
-    ## Format the raider name with their class colour in the format WoW uses for colouring text |c<Colour><Text>|r
-    formattedHeroismText = f"|cRedHeroism - {heroismText}|r"
-    return formattedHeroismText
+    ## Format the additional tag by the passed colour param |c<Colour><Text>|r
+    formattedTagText = f"|c{colour}{tagText}|r"
+    return formattedTagText
 
 ## Main thread check
 if __name__ == '__main__':
