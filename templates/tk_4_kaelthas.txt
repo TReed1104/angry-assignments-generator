@@ -21,4 +21,4 @@ Phoenix - <tank_3> - (<healer_6>)
 
 Interrupts: <interrupt_1>, <interrupt_2>, <interrupt_3>, <interrupt_4>
 
-|cRedHeroism - Phase 3|r
+<heroism_kaelthas>

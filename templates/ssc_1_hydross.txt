@@ -10,4 +10,4 @@ Banish {diamond} - <banish_2>
 MD Frost - <hunter_1> -> <tank_frost>
 MD Nature - <hunter_2> -> <tank_nature>
 
-|cRedHeroism - On Pull once threat is good|r
+<heroism_hydross>

@@ -14,4 +14,4 @@ Spitfire Totems >> Shaman > Hunter > Priest > Fathom
 
 |cRedALWAYS prio Spitfire Totems|r
 
-|cRedHeroism - On pull, once in position|r
+<heroism_fathomlord>

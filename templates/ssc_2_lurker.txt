@@ -14,4 +14,4 @@ P3 - Fears - |cWarlockWarlocks|r
 
 Guardians > Hunter Ambushers > Warlock Ambushers
 
-|cRedHeroism - First Emerge|r
+<heroism_lurker>

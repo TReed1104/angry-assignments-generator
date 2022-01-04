@@ -9,4 +9,4 @@ Backup - (<healer_5>)
 
 |cRedHealers - Watch out for other healers getting graved|r
 
-|cRedHeroism - 25% Once moved|r
+<heroism_morogrim>

@@ -12,4 +12,4 @@ TR - {circle} - <hunter_2> + <healer_2>
 BR - {triangle} - <hunter_3> + <healer_5>
 BL - {diamond} - <polymorph_2> + <healer_6>
 
-|cRedHeroism - P3|r
+<heroism_vashj>
