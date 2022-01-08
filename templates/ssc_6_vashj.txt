@@ -9,7 +9,7 @@ Nagas Entrance - <tank_2> - (<healer_2>)
 
 TL - {star} - <hunter_1> + <healer_1>
 TR - {circle} - <hunter_2> + <healer_2>
-BR - {triangle} - <hunter_3> + <healer_5>
-BL - {diamond} - <polymorph_2> + <healer_6>
+BR - {triangle} - <hunter_3> + <healer_4>
+BL - {diamond} - <polymorph_2> + <healer_7>
 
 <heroism_vashj>
