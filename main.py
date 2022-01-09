@@ -3,6 +3,7 @@ from argparse import ArgumentParser
 import os
 import json
 
+
 ## Read the file
 def readFileToString(fileName):
     parsedFile = ""
@@ -20,6 +21,7 @@ def readFileToString(fileName):
         ## Returns a blank string to prevent execution halt
         return parsedFile
 
+
 ## Write the output AAs to file
 def writeStringToFile(fileName, stringToWrite):
     try:
@@ -32,6 +34,7 @@ def writeStringToFile(fileName, stringToWrite):
     except (OSError, IOError) as error:
         print(">>> ERROR! - An error occured:", error)
 
+
 ## Input the raid member names
 def parseTemplateFile(fileName):
     ## Program flow print - more for debugging than anything
@@ -43,16 +46,18 @@ def parseTemplateFile(fileName):
     ## Find and replace assignment tokens e.g. <tank_0>
     for assignmentTag in configData["assignments"]:
         ## Replace the placeholder with the raider name, formatted with their class colour
-        fileData = fileData.replace(f"<{assignmentTag}>", colourNameByRosterClass(assignmentTag))
-    
+        fileData = fileData.replace(f"<{assignmentTag}>",
+                                    colourNameByRosterClass(assignmentTag))
+
     ## Find and replace the heroism conditions e.g. <heroism_alar>
     for additionalTag in configData["additional_tags"]:
         ## Replace the placeholder with the additional tag condition
-        fileData = fileData.replace(f"<{additionalTag}>", colourAdditionalTagText(additionalTag))
-
+        fileData = fileData.replace(f"<{additionalTag}>",
+                                    colourAdditionalTagText(additionalTag))
 
     ## Save the parsed AA to an output file
     writeStringToFile(outputDirectory + fileName, fileData)
+
 
 ## Get the raider information to replace the placeholder token with
 def colourNameByRosterClass(placeholder):
@@ -70,8 +75,9 @@ def colourNameByRosterClass(placeholder):
     formattedRaiderName = f"|c{raiderClass}{raiderName}|r"
     return formattedRaiderName
 
+
 ## Format the additional tag content strings for replacing in the text
-def colourAdditionalTagText(placeholder, colour = "Red"):
+def colourAdditionalTagText(placeholder, colour="Red"):
     ## Get the tag text
     tagText = configData["additional_tags"][placeholder]
 
@@ -83,6 +89,7 @@ def colourAdditionalTagText(placeholder, colour = "Red"):
     formattedTagText = f"|c{colour}{tagText}|r"
     return formattedTagText
 
+
 ## Main thread check
 if __name__ == '__main__':
     ## Setup the file directories
@@ -90,13 +97,21 @@ if __name__ == '__main__':
     outputDirectory = "bin/"
 
     ## Setup the command-line arguments
-    argParser = ArgumentParser(description='A Python app for quickly generating AngryAssignment messages for WoW TBC-Classic')
-    argParser.add_argument("-i", "--input", dest="config", help="The config file to use", type=str, default="config.json")
+    argParser = ArgumentParser(
+        description=
+        'A Python app for quickly generating AngryAssignment messages for WoW TBC-Classic'
+    )
+    argParser.add_argument("-i",
+                           "--input",
+                           dest="config",
+                           help="The config file to use",
+                           type=str,
+                           default="config.json")
 
     ## Parse the arguments from the command line to be usable
     args = argParser.parse_args()
 
-    ## Load the config json 
+    ## Load the config json
     configFile = open(args.config)
     configData = json.load(configFile)
     configFile.close()
