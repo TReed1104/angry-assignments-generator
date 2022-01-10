@@ -1,16 +1,16 @@
 {
     "assignments": {
-        "tank_1": "Koz",
+        "tank_1": "Teebs",
         "tank_2": "Ahem",
-        "tank_3": "Teebs",
+        "tank_3": "Brovo",
         "tank_4": "Avei",
 
         "healer_1": "Mirian",
         "healer_2": "Andy",
-        "healer_3": "Perdis",
+        "healer_3": "Cinder",
         "healer_4": "Maccy",
         "healer_5": "Enryk",
-        "healer_6": "Cinder",
+        "healer_6": "Perdis",
         "healer_7": "Whistle",
 
         "interrupt_1": "Killgem",
@@ -31,9 +31,9 @@
         "banish_3": "",
 
         "hunter_1": "Stubb",
-        "hunter_2": "Kalliya",
+        "hunter_2": "Tirguth",
         "hunter_3": "Virgil",
-        "hunter_4": "Tirguth",
+        "hunter_4": "Kalliya",
         "hunter_5": "Pulsears",
 
         "tank_nature": "Koz",
@@ -42,13 +42,13 @@
         "tank_warlock": "Navi",
         "tank_mage": "Forkie",
 
-        "cube_a": "Rustika",
+        "cube_a": "Avei",
         "cube_b": "Adusham",
         "cube_c": "Daizu",
         "cube_d": "Tharaseer",
         "cube_e": "Lungy",
         "cube_a_backup": "Stubb",
-        "cube_b_backup": "Wizzy",
+        "cube_b_backup": "Uryk",
         "cube_c_backup": "Larky",
         "cube_d_backup": "Killgem",
         "cube_e_backup": "Navi"
