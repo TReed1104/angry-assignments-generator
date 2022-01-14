@@ -7,9 +7,9 @@ P2:
 Nagas Far - <tank_1> - (<healer_1>)
 Nagas Entrance - <tank_2> - (<healer_2>)
 
-TL - {star} - <hunter_1> + <healer_1>
-TR - {circle} - <hunter_2> + <healer_2>
-BR - {triangle} - <hunter_3> + <healer_4>
-BL - {diamond} - <hunter_5> + <healer_7>
+TL - {star} - <hunter_3> + <healer_1>
+TR - {circle} - <hunter_1> + <healer_5>
+BR - {triangle} - <hunter_2> + <healer_4>
+BL - {diamond} - <hunter_4> + <healer_2>
 
 <heroism_vashj>

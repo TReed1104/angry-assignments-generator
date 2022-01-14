@@ -11,14 +11,14 @@ Kill Order Ranged: {skull} > {square} > {cross} > {moon}
 
 P2
 Axe - <tank_1> - (<healer_1>)
-Bow - <hunter_2> - (<healer_5>)
-Rest - <tank_3> - (<healer_2>) (MD: <hunter_1>, Trap: <hunter_3>)
+Bow - <hunter_1> - (<healer_5>)
+Rest - <tank_3> - (<healer_2>) (MD: <hunter_4>, Trap: <hunter_2>)
 
 P4
-Kael'thas - <tank_1> - (<healer_1> + <healer_4>)
+Kael'thas - <tank_1> - (<healer_1> + <healer_2>)
 Phoenix - <tank_3> - (<healer_3>)
 {healer} |cRedWatch for MT Healers getting MCed - Cover|r
 
-Interrupts: <interrupt_1>, <interrupt_2>, <interrupt_3>, <interrupt_4>
+Interrupts: <interrupt_1>, <interrupt_2>, <interrupt_3>, <interrupt_6>
 
 <heroism_kaelthas>
