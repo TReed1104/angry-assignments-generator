@@ -1,6 +1,8 @@
 High King Maulgar
 --------------------
 Maulgar Tank: <tank_1> (MD: <hunter_1>) - (<healer_1>)
-Olm Tanks: <tank_2> + <tank_3> - (<healer_2> + <healer_4>)
-Krosh Mage: <tank_mage> (MD: <hunter_2>) - (<healer_3>)
+Blindeye Tank: <tank_3> (MD: <hunter_2>) - (<healer_2>)
+Olm Tanks: <tank_2> (MD: <hunter_3>) - (<healer_4>)
+Krosh Mage: <tank_mage> (MD: <hunter_4>) - (<healer_3>)
 Kiggler Tank: <hunter_1> + <hunter_2> - (<healer_5>)
+Felhunter Enslave: <tank_warlock>
