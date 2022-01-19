@@ -1,2 +1,8 @@
 Illidan Stormrage
 --------------------
+{tank} Illidan: <tank_1> - (<healer_1> + <healer_2>)
+
+{tank} Fire: <tank_2> - (<healer_1> + <healer_4>)
+{tank} Fire: <tank_3> - (<healer_2> + <healer_4>)
+
+{tank} Warlock: <tank_warlock> - (<healer_1> + <healer_2>)
