@@ -1,2 +1,15 @@
 Anetheron
 --------------------
+{tank} Anetheron - <tank_1> - (<healer_1> + <healer_2>)
+
+{tank} Infernals - <tank_3> - (<healer_3>)
+
+MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
+
+- Spread around the boss in a circle
+
+- Infernal targets move to the Offtank near the gates
+
+- Maintain Mortal Strike debuff
+
+<heroism_anetheron>

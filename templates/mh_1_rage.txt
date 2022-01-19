@@ -1,2 +1,15 @@
 Rage Winterchill
 --------------------
+{tank} Rage - <tank_1> - (<healer_1> + <healer_2>)
+
+Iceblocks: <healer_3> + <healer_4>
+
+MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
+
+- Spread around the boss in a circle
+
+- Avoid Death & Decay
+
+- Dispel the slow (Magic)
+
+<heroism_rage>

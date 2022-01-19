@@ -1,2 +1,19 @@
 Azgalor
 --------------------
+{tank} <tank_1> - (<healer_1> + <healer_2> + <healer_4>)
+
+{tank} Doomguards - <tank_3> - (<healer_3>)
+
+MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
+
+- Run to Doomguard spot when you get debuffed
+
+- Keep the HoTs on Main tank (<tank_1>)
+
+- Kill Doomguards on Raidleader call
+
+- Dispell (Decurse)
+
+- Be at max range, Arcane/SPriest avoid Rain of Fire
+
+<heroism_azgalor>

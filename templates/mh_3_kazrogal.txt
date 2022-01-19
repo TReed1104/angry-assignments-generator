@@ -1,2 +1,21 @@
-Kazrogal
+Kaz'rogal
 --------------------
+{tank} MT: <tank_1> - (<healer_1> + <healer_2>)
+{tank} Soak: <tank_2> - (<healer_3> + <healer_4>)
+{tank} Soak: <tank_3> - (<healer_3> + <healer_4>)
+
+MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
+
+- Maintain seal of Wisdom
+
+- Maintain above 3600 Mana at all times
+
+- Dispell (Decurse)
+
+- If you're going to go OOM, run away
+
+- Stay at the max range you can
+
+- Spread out, use the full space
+
+<heroism_kazrogal>
