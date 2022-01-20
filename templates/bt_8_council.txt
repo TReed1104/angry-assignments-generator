@@ -1,2 +1,21 @@
 Council of the Illidari
 --------------------
+{skull} |cPaladinGathios|r: {tank} <tank_1> - (<healer_1>)
+{cross} |cRogueVeras|r: {tank} <tank_2> - (<healer_4>)
+{square} |cPriestMalande|r: {tank} <tank_3> - (<healer_3>)
+{moon} |cMageZerevor|r: {tank} <tank_mage> - (<healer_2>)
+
+{moon} |cMageZerevor|r MD: <hunter_1> -> <tank_mage>
+{skull} |cPaladinGathios|r MD: <hunter_2> -> <tank_1>
+{square} |cPriestMalande|r MD: <hunter_3> -> <tank_3>
+
+Divine Wrath: <healer_5>
+
+Melee Interupts: <interrupt_1>, <interrupt_2>
+Caster Interupts: <interrupt_5>, <interrupt_6>
+
+- Move out of Consec, Flamestrike and Blizzard
+
+- Interupt the heal
+
+<heroism_council>

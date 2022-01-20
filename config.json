@@ -79,7 +79,7 @@
         "heroism_bloodboil": "Heroism - Phase 2",
         "heroism_reliquary": "Heroism - Phase 3",
         "heroism_mother": "Heroism - On Pull, Once threat is good",
-        "heroism_council": "Heroism - TBD",
+        "heroism_council": "Heroism - On Pull, After the first spell reflect on Gathios",
         "heroism_illidan": "Heroism - TBD"
     },
     "roster": {
