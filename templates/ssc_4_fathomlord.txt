@@ -1,9 +1,9 @@
 Fathomlord
 --------------------
-Fathom = <tank_1> - (<healer_1>)
-Shaman = <tank_2> - (<healer_2>) - MD: <hunter_1>
-Hunter = <tank_3> - (<healer_3>) - MD: <hunter_2>
-Priest = <tank_4> - (<healer_4>) - MD: <hunter_3>
+Fathom = <tank_1> - (<healer_1>) - MD: <hunter_1>
+Shaman = <tank_2> - (<healer_2>) - MD: <hunter_2>
+Hunter = <tank_3> - (<healer_3>) - MD: <hunter_3>
+Priest = <tank_4> - (<healer_4>) - MD: <hunter_4>
 
 {healer} Healers —> when your miniboss dies move to raid healing
 
