@@ -6,11 +6,11 @@
         "tank_4": "Avei",
 
         "healer_1": "Mirian",
-        "healer_2": "Whistle",
+        "healer_2": "Andy",
         "healer_3": "Cinder",
         "healer_4": "Maccy",
         "healer_5": "Enryk",
-        "healer_6": "Andy",
+        "healer_6": "Whistle",
         "healer_7": "Perdis",
 
         "interrupt_1": "Killgem",
@@ -20,7 +20,7 @@
         "interrupt_5": "Binky",
         "interrupt_6": "Relentlez",
         "interrupt_7": "Ysh",
-        "interrupt_8": "Adusham",
+        "interrupt_8": "Whistle",
 
         "polymorph_1": "Binky",
         "polymorph_2": "Relentlez",
@@ -39,7 +39,7 @@
         "tank_nature": "Koz",
         "tank_frost": "Ahem",
         "tank_mixed": "Teebs",
-        "tank_warlock": "Navi",
+        "tank_warlock": "Uryk",
         "tank_mage": "Binky",
 
         "cube_a": "Rustika",
