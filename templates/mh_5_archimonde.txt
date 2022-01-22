@@ -1,10 +1,10 @@
 Archimonde
 --------------------
-{tank} Rage - <tank_1> - (<healer_1> + <healer_2>)
+{tank} <tank_1> - (<healer_1> + <healer_2>)
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
-- RedStay in range of your Tremor totem
+- Stay in range of your Tremor totem
 
 - 15 Yards spread (/range 15)
 
