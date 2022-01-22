@@ -64,7 +64,6 @@ class AssignmentGenerator:
             ## Replace the placeholder with the additional tag condition
             fileData = fileData.replace(f"<{additionalTag}>", self.__colourAdditionalTagText(additionalTag))
 
-
         ## Save the parsed AA to an output file
         self.__writeStringToFile(self.outputDirectory + fileName, fileData)
 
