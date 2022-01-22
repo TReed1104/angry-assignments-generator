@@ -59,7 +59,7 @@ class AssignmentGenerator:
             ## Replace the placeholder with the raider name, formatted with their class colour
             fileData = fileData.replace(f"<{assignmentTag}>", self.__colourNameByRosterClass(assignmentTag))
         
-        ## Find and replace the heroism conditions e.g. <heroism_alar>
+        ## Find and replace the additional tag tokens e.g. <heroism_alar>
         for additionalTag in self.configData["additional_tags"]:
             ## Replace the placeholder with the additional tag condition
             fileData = fileData.replace(f"<{additionalTag}>", self.__colourAdditionalTagText(additionalTag))
