@@ -12,6 +12,7 @@
         "healer_5": "Enryk",
         "healer_6": "Cinder",
         "healer_7": "Perdis",
+        "healer_druid": "Maccy",
 
         "interrupt_1": "Killgem",
         "interrupt_2": "Larky",
@@ -41,6 +42,7 @@
         "tank_mixed": "Teebs",
         "tank_warlock": "Avei",
         "tank_mage": "Binky",
+        "tank_pally": "Teebs",
 
         "cube_a": "Avei",
         "cube_b": "Rustika",
