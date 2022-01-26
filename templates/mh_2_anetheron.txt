@@ -5,6 +5,22 @@ Anetheron
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
+Healers spread evenly:
+{moon} - <healer_1>
+{star} - <healer_2>
+{triangle} - <healer_3>
+{diamond} - <healer_4>
+{square} - <healer_5>
+{circle} - <healer_6>
+
+    North
+   {moon}  -  {star}
+  /         \
+{triangle}          {diamond}
+  \         /
+   {square}  -  {circle}
+    South
+
 - Spread around the boss in a circle
 
 - Infernal targets move to the Offtank near the gates

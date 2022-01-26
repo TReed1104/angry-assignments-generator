@@ -3,9 +3,17 @@ Mount Hyjal Trash
 {Skull} = <tank_1> - (<healer_1>)
 {Cross} = <tank_2> - (<healer_2>)
 {Square}{Moon} = <tank_3> - (<healer_3>)
+Hunter Tank = <hunter_1> - (<healer_4>)
 
 |cRedCC On Request:|r
 {circle} - <polymorph_1>
 {star} - <polymorph_2>
 {triangle} - <banish_1>
 {diamond} - <banish_2>
+
+- {tank}|cWarriorWarriors|r/|cDruidBears|r focus on Abominations/Necromancers
+
+- Use to LoS to bring Gargoyles to ground (Huts/Walls/Out-range)
+
+- |cWarlockWarlocks|r try to Fear/Banish/CC the Felhounds
+
