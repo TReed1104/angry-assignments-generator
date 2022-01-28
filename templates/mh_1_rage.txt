@@ -28,10 +28,10 @@ Healers spread evenly:
 
 <heroism_rage>
 
-Trash
+Mount Hyjal Trash 
 --------------------
-Pally Tank = <tank_3> - (<healer_3> + <healer_5>)
-{Skull}{square} = <tank_1> - (<healer_1>)
-{Cross}{moon} = <tank_2> - (<healer_2>)
+Pally Tank = <tank_3> - (<healer_1> + <healer_3>)
+{Skull}{square} = <tank_1> - (<healer_2>)
+{Cross}{moon} = <tank_2> - (<healer_4>)
 Frostwrymn Tank = <hunter_1> - (<healer_4>)
-Gargoyls: |cHunterHunters|r -(<healer_6>)
+Gargoyles: |cHunterHunters|r & |cMageMages|r - (<healer_5> + <healer_6>)
