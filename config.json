@@ -1,17 +1,17 @@
 {
     "assignments": {
-        "tank_1": "Teebs",
+        "tank_1": "Koz",
         "tank_2": "Ahem",
         "tank_3": "Brovo",
         "tank_4": "Avei",
 
         "healer_1": "Mirian",
-        "healer_2": "Andy",
-        "healer_3": "Maccy",
-        "healer_4": "Whistle",
-        "healer_5": "Enryk",
-        "healer_6": "Cinder",
-        "healer_7": "Perdis",
+        "healer_2": "Perdis",
+        "healer_3": "Cinder",
+        "healer_4": "Maccy",
+        "healer_5": "Whistle",
+        "healer_6": "Enryk",
+        "healer_7": "Andy",
         "healer_druid": "Maccy",
 
         "interrupt_1": "Killgem",
@@ -21,11 +21,11 @@
         "interrupt_5": "Binky",
         "interrupt_6": "Relentlez",
         "interrupt_7": "Ysh",
-        "interrupt_8": "Whistle",
+        "interrupt_8": "Adusham",
 
         "polymorph_1": "Binky",
-        "polymorph_2": "Relentlez",
-        "polymorph_3": "Forkie",
+        "polymorph_2": "Forkie",
+        "polymorph_3": "Relentlez",
 
         "banish_1": "Uryk",
         "banish_2": "Navi",
@@ -44,6 +44,12 @@
         "tank_mage": "Binky",
         "tank_pally": "Teebs",
         "tank_hunter": "Stubb",
+
+        "archi_shaman_moon": "Enryk",
+        "archi_shaman_circle": "Whistle",
+        "archi_shaman_star": "Ysh",
+        "archi_shaman_diamond": "Daizu",
+        "archi_shaman_triangle": "Tharaseer",
 
         "cube_a": "Avei",
         "cube_b": "Rustika",
