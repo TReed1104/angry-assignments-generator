@@ -2,7 +2,7 @@
     "assignments": {
         "tank_1": "Koz",
         "tank_2": "Ahem",
-        "tank_3": "Brovo",
+        "tank_3": "Felthus",
         "tank_4": "Avei",
 
         "healer_1": "Mirian",
@@ -39,10 +39,10 @@
 
         "tank_nature": "Koz",
         "tank_frost": "Ahem",
-        "tank_mixed": "Teebs",
+        "tank_mixed": "Felthus",
         "tank_warlock": "Avei",
         "tank_mage": "Binky",
-        "tank_pally": "Teebs",
+        "tank_pally": "Felthus",
         "tank_hunter": "Stubb",
 
         "archi_shaman_moon": "Enryk",
@@ -97,7 +97,7 @@
         "Killgem": "Warrior",
         "Larky": "Rogue",
         "Orrio": "Rogue",
-        "Teebs": "Paladin",
+        "Felthus": "Paladin",
         "Andy": "Paladin",
         "Mirian": "Paladin",
         "Hipo": "Paladin",
