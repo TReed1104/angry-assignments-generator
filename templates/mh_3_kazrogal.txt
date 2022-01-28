@@ -6,16 +6,18 @@ Kaz'rogal
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
-- Maintain seal of Wisdom
-
-- Maintain above 3000 Mana at all times
+- Maintain above 3000 Mana at all times, if you're going to go OOM, run away
 
 - Dispell (Decurse)
 
-- If you're going to go OOM, run away
-
 - Stay at the max range you can
 
-- Spread out, use the full space
-
 <heroism_kazrogal>
+
+Trash
+--------------------
+Pally Tank = <tank_3> - (<healer_3> + <healer_5>)
+{Skull}{square} = <tank_1> - (<healer_1>)
+{Cross}{moon} = <tank_2> - (<healer_2>)
+Frostwrymn Tank = <hunter_1> - (<healer_4>)
+Gargoyls: |cHunterHunters|r -(<healer_6>)

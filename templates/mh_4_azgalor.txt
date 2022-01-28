@@ -6,11 +6,9 @@ Azgalor
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
-- Run to Doomguard spot when you get debuffed
+- Run to Doomguard spot (tree stump) when you get debuffed
 
 - Keep the HoTs on Main tank (<tank_1>)
-
-- Kill Doomguards on Raidleader call
 
 - Dispell (Decurse)
 
@@ -19,3 +17,11 @@ MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 - Melee avoid the rain of fire by moving around his backend as a group
 
 <heroism_azgalor>
+
+Trash
+--------------------
+Pally Tank = <tank_3> - (<healer_3> + <healer_5>)
+{Skull}{square} = <tank_1> - (<healer_1>)
+{Cross}{moon} = <tank_2> - (<healer_2>)
+Frostwrymn Tank = <hunter_1> - (<healer_4>)
+Gargoyls: |cHunterHunters|r -(<healer_6>)

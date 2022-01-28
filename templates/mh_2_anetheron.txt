@@ -17,15 +17,19 @@ Healers spread evenly:
     North
    {moon}  -  {star}
   /         \
-{triangle}          {diamond}
+{triangle}    {skull}   {diamond}
   \         /
    {square}  -  {circle}
     South
 
-- Spread around the boss in a circle
-
-- Infernal targets move to the Offtank near the gates
-
 - Maintain Mortal Strike debuff
 
 <heroism_anetheron>
+
+Trash
+--------------------
+Pally Tank = <tank_3> - (<healer_3> + <healer_5>)
+{Skull}{square} = <tank_1> - (<healer_1>)
+{Cross}{moon} = <tank_2> - (<healer_2>)
+Frostwrymn Tank = <hunter_1> - (<healer_4>)
+Gargoyls: |cHunterHunters|r -(<healer_6>)

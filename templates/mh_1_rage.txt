@@ -3,7 +3,6 @@ Rage Winterchill
 {tank} Rage - <tank_1> - (<healer_1> + <healer_2>)
 
 Iceblocks: All but Tank healers focus on Iceblocks asap
-FAP - before hit, LAP/trinket - after hit
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
@@ -18,17 +17,21 @@ Healers spread evenly:
     North
    {moon}  -  {star}
   /         \
-{triangle}          {diamond}
+{triangle}    {skull}   {diamond}
   \         /
    {square}  -  {circle}
     South
-
-- Keep players topped
-
-- Spread around the boss in a circle
 
 - Avoid Death & Decay
 
 - Dispel the slow (Magic)
 
 <heroism_rage>
+
+Trash
+--------------------
+Pally Tank = <tank_3> - (<healer_3> + <healer_5>)
+{Skull}{square} = <tank_1> - (<healer_1>)
+{Cross}{moon} = <tank_2> - (<healer_2>)
+Frostwrymn Tank = <hunter_1> - (<healer_4>)
+Gargoyls: |cHunterHunters|r -(<healer_6>)
