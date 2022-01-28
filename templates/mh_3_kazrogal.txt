@@ -8,7 +8,7 @@ MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
 - Maintain seal of Wisdom
 
-- Maintain above 3600 Mana at all times
+- Maintain above 3000 Mana at all times
 
 - Dispell (Decurse)
 

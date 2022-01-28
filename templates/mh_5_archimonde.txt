@@ -4,6 +4,13 @@ Archimonde
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
+Tremors:
+{moon} <archi_shaman_moon>
+{circle} <archi_shaman_circle>
+{star} <archi_shaman_star>
+{diamond} <archi_shaman_diamond>
+{triangle} <archi_shaman_triangle>
+
 - Decursers - evenly spread
 
 - Dont Die - Soul charge

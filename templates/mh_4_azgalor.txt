@@ -16,4 +16,6 @@ MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
 - Be at max range, Arcane/SPriest avoid Rain of Fire
 
+- Melee avoid the rain of fire by moving around his backend as a group
+
 <heroism_azgalor>

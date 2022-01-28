@@ -1,9 +1,11 @@
 Mount Hyjal Trash 
 --------------------
-{Skull} = <tank_1> - (<healer_1>)
-{Cross} = <tank_2> - (<healer_2>)
-{Square}{Moon} = <tank_3> - (<healer_3>)
+Cluster Tank = <tank_3> - (<healer_3> + <healer_5>)
+{Skull}{square} = <tank_1> - (<healer_1>)
+{Cross}{moon} = <tank_2> - (<healer_2>)
+
 Hunter Tank = <hunter_1> - (<healer_4>)
+Gargoyle Squad Healer: (<healer_5>)
 
 |cRedCC On Request:|r
 {circle} - <polymorph_1>
@@ -13,7 +15,10 @@ Hunter Tank = <hunter_1> - (<healer_4>)
 
 - {tank}|cWarriorWarriors|r/|cDruidBears|r focus on Abominations/Necromancers
 
+- {tank} Tanks try and use FAPs where possible on Abominations
+
 - Use to LoS to bring Gargoyles to ground (Huts/Walls/Out-range)
 
 - |cWarlockWarlocks|r try to Fear/Banish/CC the Felhounds
 
+- Gargoyle Squad - |cHunterHunters|r & |cShamanElementals|r
