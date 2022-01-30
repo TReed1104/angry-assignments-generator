@@ -1,2 +1,18 @@
 Teron Gorefiend
 --------------------
+{tank} Teron: <tank_1> - (<healer_1> + <healer_2>)
+
+MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
+
+- Nuke Teron
+
+- Dispel (Magic)
+
+Shadow of Death
+- Kills you after 55 seconds
+- Die in the far corner
+- Kill constructs before they Teron
+- Pet bar
+- rotation: Valley -> Chains -> 2x Lance on each target
+
+<heroism_teron>

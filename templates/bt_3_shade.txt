@@ -1,2 +1,13 @@
 Shade of Akama
 --------------------
+{tank} Center: <tank_1> - (<healer_1> + <healer_2>)
+{tank} Right: <tank_2> - (<healer_4>)
+{tank} Left: <tank_3> - (<healer_3>)
+
+- MT pull a Defender to the middle, Seed of it
+
+- Kill channellers and sorcerers
+
+- P2 - Kill the Shade in 60 seconds
+
+<heroism_shade>

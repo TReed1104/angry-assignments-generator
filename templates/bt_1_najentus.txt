@@ -1,2 +1,21 @@
-Naj'entus
+High Warlord Naj'entus
 --------------------
+{tank} Naj'entus - <tank_1> - (<healer_1> + <healer_2>)
+
+MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
+
+Marked Healers - Make sure to get them out the impale
+{moon} - <healer_1>
+{star} - <healer_2>
+{triangle} - <healer_3>
+{diamond} - <healer_4>
+{square} - <healer_5>
+{circle} - <healer_6>
+
+- Ensure you have 8.5k HP minimum
+
+- Loot the spines ASAP
+
+- Only use the spine when RL says
+
+<heroism_najentus>

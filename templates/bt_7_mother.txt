@@ -1,2 +1,21 @@
 Mother Shahraz
 --------------------
+{tank} MT: <tank_1> - (<healer_1> + <healer_druid>)
+{tank} Soak: <tank_2> - (<healer_2>)
+{tank} Soak: <tank_3> - (<healer_3>)
+
+MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
+
+- Be stacked under the statues in the tactic
+
+- Fatal Attraction
+    - Run away from the others
+
+    - Use Shadow Pots/Healthstones
+
+    - Use your Bubbles/defensives/Blink anything to survive
+
+- Use your Shadow Res gear (as close to 178 as possible)
+
+
+<heroism_mother>

@@ -1,2 +1,26 @@
 Reliquary of Souls
 --------------------
+P1 - No Healing
+- Closest player tanks
+
+- Dispel Soul Drain (Magic)
+
+P2 - Spell Reflect
+{tank} MT - <tank_1> - (<healer_1> + <healer_2>)
+
+- Don't kill yourself
+
+- Mages spellsteal Rune Shield
+
+- Interupt Spirit Shock: <interupt_1>, <interupt_2>, <interupt_3>
+
+P3 - Ticking Shadow damage
+{tank} MT - <tank_1> - (<healer_1> + <healer_2>)
+Spite Healer: <healer_4>
+
+- Face Boss away, if you get aggro move to the tank-spot
+
+- Current Tank keep your Rage/Mana low
+
+
+<heroism_reliquary>
