@@ -6,3 +6,23 @@ Illidan Stormrage
 {tank} Fire: <tank_3> - (<healer_2> + <healer_4>)
 
 {tank} Warlock: <tank_warlock> - (<healer_1> + <healer_2>)
+
+- Always face away from raid
+- Kill Shadowfiends
+- Avoid the fire
+- Spread 8 yards (P4/P5)
+- Use Maiev's Trap for enrage (P5)
+
+P2:
+- Spread in three groups in the center (mark raid healers)
+    {diamond}: Group 3
+    {star}: Group 4
+    {triangle}: Group 5
+- Avoid the fire
+- Avoid Eyebeams
+
+P4:
+- Let the Warlock Tank pickup
+- Spread 8 yards from each other
+- Kill the Shadow Demons
+- 20 yards from illidan
