@@ -5,7 +5,7 @@ Council of the Illidari
 {square} |cPriestMalande|r: {tank} <tank_3> - (<healer_3>)
 {moon} |cMageZerevor|r: {tank} <tank_mage> - (<healer_2>)
 
-{moon} |cMageZerevor|r MD: <hunter_1> -> <tank_mage>
+{moon} |cMageZerevor|r MD: <hunter_1> -> <tank_mage> (|cRedNO ARCANE SHOT|r)
 {skull} |cPaladinGathios|r MD: <hunter_2> -> <tank_1>
 {square} |cPriestMalande|r MD: <hunter_3> -> <tank_3>
 

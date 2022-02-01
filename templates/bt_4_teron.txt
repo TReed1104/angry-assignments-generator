@@ -4,9 +4,7 @@ Teron Gorefiend
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
-- Nuke Teron
-
-- Dispel (Magic)
+- Dispel Incinerate ASAP (magic)
 
 Shadow of Death
 - Kills you after 55 seconds

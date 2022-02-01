@@ -12,10 +12,10 @@ Marked Healers - Make sure to get them out the impale
 {square} - <healer_5>
 {circle} - <healer_6>
 
-- Ensure you have 8.5k HP minimum
+- Have 8500+ health
 
 - Loot the spines ASAP
 
-- Only use the spine when RL says
+- Only use spines when called
 
 <heroism_najentus>
