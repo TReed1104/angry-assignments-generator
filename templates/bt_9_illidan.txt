@@ -10,19 +10,16 @@ Illidan Stormrage
 - Always face away from raid
 - Kill Shadowfiends
 - Avoid the fire
-- Spread 8 yards (P4/P5)
+- Spread 5 yards (P4/P5)
 - Use Maiev's Trap for enrage (P5)
+- Threat drop between Form change
+- 15 Yards from Demon form at all times
 
-P2:
-- Spread in three groups in the center (mark raid healers)
-    {diamond}: Group 3
+- P3 Spread:
+    {triangle}: Group 3
     {star}: Group 4
-    {triangle}: Group 5
-- Avoid the fire
-- Avoid Eyebeams
+    {diamond}: Group 5
 
-P4:
-- Let the Warlock Tank pickup
-- Spread 8 yards from each other
-- Kill the Shadow Demons
-- 20 yards from illidan
+      {diamond}
+  /         \
+{triangle}   -    {star}
