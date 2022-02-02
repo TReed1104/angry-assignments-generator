@@ -20,6 +20,7 @@ Illidan Stormrage
     {star}: Group 4
     {diamond}: Group 5
 
-      {diamond}
-  /         \
-{triangle}   -    {star}
+     {diamond}
+  /     \
+ /       \
+{triangle} ---  {star}
