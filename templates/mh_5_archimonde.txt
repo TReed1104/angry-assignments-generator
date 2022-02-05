@@ -11,18 +11,21 @@ Tremors:
 {diamond} <archi_shaman_diamond>
 {triangle} <archi_shaman_triangle>
 
-- Decursers - evenly spread
+{icon 31972} {spell 31972}
+- |cRedDecurse ASAP|r (|cDruidDruids|r & |cMageMages|r)
 
-- Dont Die - Soul charge
+{icon 32054} {spell 32054}
+- Dont Die - new raidwide ability
+- 4k Hit / DoT / Silence
 
-- Stay in range of your Tremor totem
+{icon 31970} {spell 31970}
+- |credTremors in each group|r
+- Stay close to Totems
 
-- Dispell (Decurse Grip of the legion) asap 
+{icon 32014} {spell 32014}
+- Use your Tear {icon spell_arcane_arcane01} to survive the knock-up
 
-- Use your Tear to survive the knock-up (Airburst)
-
-- Avoid the Fire trails (Doomfire strike)
-
-- Survival > DPS
+{icon 31903} {spell 31903}
+- Avoid the Fire trails 
 
 <heroism_archimonde>

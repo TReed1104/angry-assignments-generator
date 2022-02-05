@@ -6,13 +6,16 @@ Kaz'rogal
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
-- Maintain above 3000 Mana at all times, if you're going to go OOM, run away
+{icon 31447} {spell 31447}
+- Be above 3000 Mana at all times
+- If you're going to go OOM, run away
 
-- Dispell (Decurse)
-
-- Stay at the max range you can
+{icon 31477} {spell 31477}
+- Decurse (|cDruidDruids|r & |cMageMages|r)
+- Spread out & max range
 
 <heroism_kazrogal>
+
 
 Mount Hyjal Trash 
 --------------------

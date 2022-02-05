@@ -4,27 +4,20 @@ Anetheron
 {tank} Infernals - <tank_3> - (<healer_3>)
 
 MD on pull: <hunter_2>, <hunter_3>
-Infernal MDs: <hunter_1>
+Infernal MDs: <hunter_1> (on spawn if loose)
 
-Healers spread evenly:
-{moon} - <healer_1>
-{star} - <healer_2>
-{triangle} - <healer_3>
-{diamond} - <healer_4>
-{square} - <healer_5>
-{circle} - <healer_6>
-
-    North
-   {moon}  -  {star}
-  /         \
-{triangle}    {skull}   {diamond}
-  \         /
-   {square}  -  {circle}
+    North         {moon} <healer_1>
+   {moon}  -  {star}       {star} <healer_2>
+  /         \       {triangle} <healer_3>
+{triangle}    {skull}   {diamond}     {diamond} <healer_4>
+  \         /       {square} <healer_5>
+   {square}  -  {circle}       {circle} <healer_6>
     South
 
 - Maintain Mortal Strike debuff
 
 <heroism_anetheron>
+
 
 Mount Hyjal Trash 
 --------------------

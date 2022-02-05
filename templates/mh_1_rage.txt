@@ -6,27 +6,19 @@ Iceblocks: All but Tank healers focus on Iceblocks asap
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
-Healers spread evenly:
-{moon} - <healer_1>
-{star} - <healer_2>
-{triangle} - <healer_3>
-{diamond} - <healer_4>
-{square} - <healer_5>
-{circle} - <healer_6>
-
-    North
-   {moon}  -  {star}
-  /         \
-{triangle}    {skull}   {diamond}
-  \         /
-   {square}  -  {circle}
+    North         {moon} <healer_1>
+   {moon}  -  {star}       {star} <healer_2>
+  /         \       {triangle} <healer_3>
+{triangle}    {skull}   {diamond}     {diamond} <healer_4>
+  \         /       {square} <healer_5>
+   {square}  -  {circle}       {circle} <healer_6>
     South
 
-- Avoid Death & Decay
-
-- Dispel the slow (Magic)
+{icon 31258} {spell 31258}
+- Avoid (20 Yards)
 
 <heroism_rage>
+
 
 Mount Hyjal Trash 
 --------------------

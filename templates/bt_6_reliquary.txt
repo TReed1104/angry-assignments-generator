@@ -1,29 +1,20 @@
 Reliquary of Souls
 --------------------
-P1 - No Healing
+|cpurplePhase 1:|r No Healing
 - Closest player tanks: <tank_1>, <tank_2>, <tank_3>
-
 - Rogues Evasion Enrage phase
-
 - Dispel Soul Drain (Magic)
 
-
-P2 - Spell Reflect
+|cpurplePhase 2:|r Spell Reflect
 {tank} MT - <tank_1> - (<healer_1> + <healer_2>)
-
 - Don't kill yourself
-
 - Mages spellsteal Rune Shield
-
 - Interupt Spirit Shock: <interrupt_1>, <interrupt_2>, <interrupt_3>
 
-
-P3 - Ticking Shadow damage
+|cpurplePhase 2:|r Ticking Shadow damage
 {tank} MT - <tank_1> - (<healer_1> + <healer_2>)
 Spite Healer: <healer_4>
-
 - Face Boss away, if you get aggro move to the tank-spot
-
 - Current Tank keep your Rage/Mana low
 
 <heroism_reliquary>

@@ -1,6 +1,6 @@
 Gurtogg Bloodboil
 --------------------
-{tank} <tank_1> - (<healer_1> + <healer_2> + <healer_druid>)
+{tank} <tank_3> - (<healer_1> + <healer_2> + <healer_druid>)
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
@@ -8,14 +8,12 @@ Soak {star}: Group 3
 Soak {circle}: Group 4
 Soak {triangle}: Group 5
 
-P1
+|cpurplePhase 1:|r
 - Bloodboil, swap the water group each time ({star} > {circle} > {triangle})
-
 - Spread on 5th Bloodboil
 
-P2
+|cpurplePhase 2:|r
 - All healers focus Fel Rage target
-
 - Fel Rage target use Defensives
 
 <heroism_bloodboil>

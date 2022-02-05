@@ -4,13 +4,14 @@ Teron Gorefiend
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
-- Dispel Incinerate ASAP (magic)
+{icon 40239} {spell 40239}
+- |credDispel ASAP|r (|cPaladinPaladins|r & |cPriestPriests|r)
 
-Shadow of Death
+{icon 40251} {spell 40251}
 - Kills you after 55 seconds
 - Die in the far corner
-- Kill constructs before they Teron
-- Pet bar
+- Kill constructs before they reach Teron
+- Pet bar (default: ctrl + key)
 - rotation: Valley -> Chains -> 2x Lance on each target
 
 <heroism_teron>

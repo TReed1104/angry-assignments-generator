@@ -3,24 +3,28 @@ Illidan Stormrage
 {tank} Illidan: <tank_1> - (<healer_1> + <healer_2>)
 
 {tank} Fire: <tank_2> - (<healer_1> + <healer_4>)
-{tank} Fire: <tank_3> - (<healer_2> + <healer_4>)
+{tank} Fire: <tank_3> - (<healer_2> + <healer_3>)
 
 {tank} Warlock: <tank_warlock> - (<healer_1> + <healer_2>)
 
-- Always face away from raid
+|cpurplePhase 1, 3, 5:|r
+- Always face Illidan away from raid
 - Kill Shadowfiends
-- Avoid the fire
-- Spread 5 yards (P4/P5)
-- Use Maiev's Trap for enrage (P5)
-- Threat drop between Form change
+- Avoid the spawned fire patches
+- Watch Threat drop between Form change
+- Spread 5 Yards (|cpurplePhase 3|r)
+- Use Maiev's Trap for enrage (|cpurplePhase 5|r)
+
+|cpurplePhase 2:|r
+    {diamond}        {triangle}: Group 3
+  /    \      {star}: Group 4
+ /      \     {diamond}: Group 5
+{triangle} --  {star}
+
+|cpurplePhase 4:|r
 - 15 Yards from Demon form at all times
+- 20 Yards from {star}<tank_warlock>
+- Kill Shadow Demons ASAP
+- Spread 5 yards at all times
 
-- P3 Spread:
-    {triangle}: Group 3
-    {star}: Group 4
-    {diamond}: Group 5
-
-     {diamond}
-  /     \
- /       \
-{triangle} ---  {star}
+<heroism_illidan>

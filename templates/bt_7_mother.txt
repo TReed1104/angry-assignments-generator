@@ -8,9 +8,7 @@ MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
 - Fatal Attraction
     - Run away from the others
-
     - Use Shadow Pots/Healthstones
-
     - Use your Bubbles/defensives/Blink anything to survive
 
 - Use your Shadow Res gear
