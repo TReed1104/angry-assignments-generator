@@ -6,11 +6,18 @@ Mother Shahraz
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
-- Use your Shadow Res gear
+|cRedUse your Shadow Res gear|r
 
 {icon 41001} {spell 41001}
 - Run away from the others
 - Use Shadow Pots/Healthstones
 - Use your Bubbles/defensives/Blink anything to survive
+
+{icon 40860} {spell 40860}
+ - Every 9s 10 raiders affected
+ - Damage & throw in the air (Stay under statue)
+ 
+{icon 40823} {spell 40823}
+- 18 Yard 10s silence - outrange
 
 <heroism_mother>

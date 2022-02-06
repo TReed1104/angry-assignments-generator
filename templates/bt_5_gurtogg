@@ -8,12 +8,18 @@ Soak {star}: Group 3
 Soak {circle}: Group 4
 Soak {triangle}: Group 5
 
-|cpurplePhase 1:|r
+|cPurplePhase 1:|r
 {icon 42005} {spell 42005}
 - Swap the water group ({star} > {circle} > {triangle} > {star} > {circle})
-- Spread on 5th Bloodboil
 
-|cpurplePhase 2:|r
+{icon 40481} {spell 40481} 
+- stacking dot + armor reduce
+- tanks need to be first 3 on threat
+- Swap tank on 15 acidic Wounds (cca 30sec)
+
+|cRedSpread on 5th Bloodboil|r
+
+|cPurplePhase 2:|r
 {icon 40594} {spell 40594}
 - All healers focus Fel Rage target
 - Fel Rage target use Defensives
