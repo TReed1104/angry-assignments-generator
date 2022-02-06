@@ -9,10 +9,12 @@ Soak {circle}: Group 4
 Soak {triangle}: Group 5
 
 |cpurplePhase 1:|r
-- Bloodboil, swap the water group each time ({star} > {circle} > {triangle})
+{icon 42005} {spell 42005}
+- Swap the water group ({star} > {circle} > {triangle} > {star} > {circle})
 - Spread on 5th Bloodboil
 
 |cpurplePhase 2:|r
+{icon 40594} {spell 40594}
 - All healers focus Fel Rage target
 - Fel Rage target use Defensives
 
