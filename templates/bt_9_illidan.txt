@@ -2,7 +2,7 @@ Illidan Stormrage
 --------------------
 {tank} Illidan: <tank_1> - (<healer_1> + <healer_2>)
 
-{tank} Fire: <tank_2> - (<healer_1> + <healer_4>)
+{tank} Fire: <tank_2> - (<healer_1> + <healer_3>)
 {tank} Fire: <tank_3> - (<healer_2> + <healer_3>)
 
 {tank} Warlock: <tank_warlock> - (<healer_1> + <healer_2>)
@@ -16,6 +16,7 @@ Illidan Stormrage
 - Use Maiev's Trap for enrage (|cpurplePhase 5|r)
 
 |cpurplePhase 2:|r
+{icon 40585} {spell 40585} Healer: <healer_4> (Spam fast heals)
     {diamond}        {triangle}: Group 3
   /    \      {star}: Group 4
  /      \     {diamond}: Group 5
