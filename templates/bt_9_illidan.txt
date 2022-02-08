@@ -5,8 +5,8 @@ Illidan Stormrage
 {tank} Fire: <tank_3> - (<healer_2> + <healer_3>)
 {tank} Warlock: <tank_warlock> - (<healer_1> + <healer_2>)
 
-|credThreat drop between Form change|r 
-|cred Push past 30% only in human form|r
+|cRedThreat drop between Form change|r 
+|cRed Push past 30% only in human form|r
 
 |cPurplePhase 1, 3, 5:|r
 - {icon 40904}{spell 40904} face Illidan away from raid 

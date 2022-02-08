@@ -1,13 +1,15 @@
 Council of the Illidari
 --------------------
-{skull} |cPaladinGathios|r: {tank} <tank_1> - (<healer_1>)
-{cross} |cRogueVeras|r: {tank} <tank_2> - (<healer_4>)
-{square} |cPriestMalande|r: {tank} <tank_3> - (<healer_3>)
-{moon} |cMageZerevor|r: {tank} <tank_mage> - (<healer_2>)
+{skull} |cPaladinGathios|r: {tank} <tank_1> - (<healer_1> + <healer_2>)
+{cross} |cRogueVeras|r: {tank} <tank_3> - (<healer_3>)
+{square} |cPriestMalande|r: {tank} <tank_2> - (<healer_4>)
+{moon} |cMageZerevor|r: {tank} <tank_mage> - (<healer_6>)
 
 {moon} |cMageZerevor|r MD: <hunter_1> -> <tank_mage> (|cRedNO ARCANE SHOT|r)
 {skull} |cPaladinGathios|r MD: <hunter_2> -> <tank_1>
-{square} |cPriestMalande|r MD: <hunter_3> -> <tank_3>
+{square} |cPriestMalande|r MD: <hunter_3> -> <tank_2>
+
+- {icon 41472} {spell 41472} & {icon 41485} {spell 41485} Healer: <healer_5>
 
 - Avoid {icon 41541}{spell 41541}/{icon 41481}{spell 41481}/{icon 41482}{spell 41482}
 
