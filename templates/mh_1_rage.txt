@@ -24,6 +24,6 @@ Mount Hyjal Trash
 --------------------
 Pally Tank = <tank_3> - (<healer_1> + <healer_3>)
 {Skull}{square} = <tank_1> - (<healer_2>)
-{Cross}{moon} = <tank_2> - (<healer_4>)
-Frostwrymn Tank = <hunter_1> - (<healer_4>)
-Gargoyles: |cHunterHunters|r & |cMageMages|r - (<healer_5> + <healer_6>)
+{Cross}{moon} = <tank_2> - (<healer_5>)
+Frostwrymn Tank = <hunter_1> - (<healer_5>)
+Gargoyles: |cHunterHunters|r & |cMageMages|r - (<healer_4> + <healer_6>)
