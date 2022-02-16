@@ -2,7 +2,7 @@ Illidan Stormrage
 --------------------
 {tank} Illidan: <tank_1> - (<healer_1> + <healer_2>)
 {tank} Fire: <tank_2> - (<healer_1> + <healer_3>)
-{tank} Fire: <tank_3> - (<healer_2> + <healer_3>)
+{tank} Fire: <tank_3> - (<healer_2> + <healer_6>)
 {tank} Warlock: <tank_warlock> - (<healer_1> + <healer_2>)
 
 |cRedThreat drop between Form change|r 
@@ -17,11 +17,11 @@ Illidan Stormrage
 + |cPurplePhase 5|r - Use Maiev's Trap when {icon 40683}{spell 40683}
 
 |cPurplePhase 2:|r
-{tank} Fire: East - <tank_2>,  West - <tank_3>
+{tank} Flames: {skull} <tank_3>, {cross} <tank_2>
     - Avoid beam {spell 40018}, can move through Blue fire
     - Face away from raid, Move from green fire
 {dps} melee start East
-{icon 40585} {spell 40585} Healer: {healer} |cPaladinSoolara|r - Spam fast heals
+{icon 40585} {spell 40585} Healer: {healer} <healer_4> - Spam fast heals
 {icon 40598} {spell 40598} - 10 ya radius
     {diamond}        {triangle}: Group 3
   /    \      {star}: Group 4

@@ -1,24 +1,24 @@
 {
     "assignments": {
         "tank_1": "Koz",
-        "tank_2": "Brovo",
+        "tank_2": "Ahem",
         "tank_3": "Felthus",
-        "tank_4": "Ahem",
+        "tank_4": "Brovo",
 
         "healer_1": "Mirian",
         "healer_2": "Andy",
-        "healer_3": "Perdis",
+        "healer_3": "Cinder",
         "healer_4": "Whistle",
         "healer_5": "Enryk",
-        "healer_6": "Maccy",
-        "healer_7": "Cinder",
+        "healer_6": "Perdis",
+        "healer_7": "Maccy",
         "healer_druid": "Maccy",
 
         "interrupt_1": "Larky",
-        "interrupt_2": "Killgem",
-        "interrupt_3": "Relentlez",
+        "interrupt_2": "Orrio",
+        "interrupt_3": "Killgem",
         "interrupt_4": "Binky",
-        "interrupt_5": "Ysh",
+        "interrupt_5": "Relentlez",
         "interrupt_6": "Adusham",
         "interrupt_7": "Forkie",
         "interrupt_8": "",
@@ -31,10 +31,10 @@
         "banish_2": "Navi",
         "banish_3": "Uryk",
 
-        "hunter_1": "Kalliya",
+        "hunter_1": "Stubb",
         "hunter_2": "Tirguth",
         "hunter_3": "Pulsears",
-        "hunter_4": "Stubb",
+        "hunter_4": "Kalliya",
         "hunter_5": "",
 
         "tank_nature": "Koz",
@@ -49,13 +49,13 @@
         "archi_shaman_circle": "Whistle",
         "archi_shaman_star": "Ysh",
         "archi_shaman_diamond": "Adusham",
-        "archi_shaman_triangle": "",
+        "archi_shaman_triangle": "Tharaseer",
 
         "cube_a": "Avei",
         "cube_b": "Rustika",
         "cube_c": "Brovo",
         "cube_d": "Ahem",
-        "cube_e": "Lungy",
+        "cube_e": "Linnet",
         "cube_a_backup": "Stubb",
         "cube_b_backup": "Navi",
         "cube_c_backup": "Orrio",
@@ -102,7 +102,7 @@
         "Mirian": "Paladin",
         "Hipo": "Paladin",
         "Cinder": "Priest",
-        "Lungy": "Priest",
+        "Linnet": "Priest",
         "Perdis": "Priest",
         "Rustika": "Druid",
         "Avei": "Druid",
@@ -124,7 +124,6 @@
         "Pulsears": "Hunter",
         "Stubb": "Hunter",
         "Kalliya": "Hunter",
-        "Tirguth": "Hunter",
-        "Virgil": "Hunter"
+        "Tirguth": "Hunter"
     }
 }
