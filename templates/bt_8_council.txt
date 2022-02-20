@@ -16,12 +16,12 @@ Council of the Illidari
 {square} |cPriestMalande|r:
 {icon 41455} {spell 41455}
 Melee Interupts: <interrupt_1>, <interrupt_2>
-Caster Interupts: <interrupt_4>, <interrupt_5>
+Caster Interupts: <interrupt_3>, <interrupt_4>
 |credInterupts - check|r {icon 41451}|cBlueBoSW|r/{icon 41450}|cBlueBoP|r so it goes through
 {icon 41475} {spell 41475} - don't kill yourself
 
 {moon} |cMageZerevor|r: 
-- spellsteal {icon 41478} {spell 41478} asap
+- Spellsteal {icon 41478} {spell 41478} asap
 
 {skull} |cPaladinGathios|r:
 - |credMain Focus|r
