@@ -60,7 +60,24 @@
         "cube_b_backup": "Navi",
         "cube_c_backup": "Orrio",
         "cube_d_backup": "Hipo",
-        "cube_e_backup": "Ysh"
+        "cube_e_backup": "Ysh",
+
+        "bloodboil_group_1_1": "Stubb",
+        "bloodboil_group_1_2": "Kalliya",
+        "bloodboil_group_1_3": "Adusham",
+        "bloodboil_group_1_4": "Wizzy",
+        "bloodboil_group_1_5": "Whistle",
+        "bloodboil_group_2_1": "Navi",
+        "bloodboil_group_2_2": "Uryk",
+        "bloodboil_group_2_3": "Rustika",
+        "bloodboil_group_2_4": "Cinder",
+        "bloodboil_group_2_5": "Ysh",
+        "bloodboil_group_3_1": "Forkie",
+        "bloodboil_group_3_2": "Binky",
+        "bloodboil_group_3_3": "Relentlez",
+        "bloodboil_group_3_4": "Maccy",
+        "bloodboil_group_3_5": "Enryk"
+
     },
     "additional_tags": {
         "heroism_highkingmaulgar": "Heroism - On pull",
