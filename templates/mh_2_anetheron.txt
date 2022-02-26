@@ -1,10 +1,10 @@
 Anetheron
 --------------------
 {tank} Anetheron - <tank_1> - (<healer_1> + <healer_2>)
-{tank} Infernals - <tank_3> - (<healer_3>)
+{tank} Infernals - <tank_3> - (<healer_5>)
 
-MD on pull: <hunter_2>, <hunter_3>
-Infernal MDs: <hunter_1> (on spawn if loose)
+MD on pull: <hunter_1>, <hunter_2>
+Infernal MDs: <hunter_3> (on spawn if loose)
 
     North         {moon} <healer_1>
    {moon}  -  {star}       {star} <healer_2>
