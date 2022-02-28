@@ -1,9 +1,9 @@
 {
     "assignments": {
         "tank_1": "Koz",
-        "tank_2": "Ahem",
+        "tank_2": "Brovo",
         "tank_3": "Felthus",
-        "tank_4": "Brovo",
+        "tank_4": "Ahem",
 
         "healer_1": "Mirian",
         "healer_2": "Andy",
@@ -16,24 +16,24 @@
 
         "interrupt_1": "Orrio",
         "interrupt_2": "Larky",
-        "interrupt_3": "Killgem",
+        "interrupt_3": "Binky",
         "interrupt_4": "Relentlez",
-        "interrupt_5": "Ysh",
+        "interrupt_5": "Forkie",
         "interrupt_6": "Adusham",
-        "interrupt_7": "Forkie",
+        "interrupt_7": "",
         "interrupt_8": "",
 
-        "polymorph_1": "Relentlez",
-        "polymorph_2": "Forkie",
-        "polymorph_3": "Binky",
+        "polymorph_1": "Binky",
+        "polymorph_2": "Relentlez",
+        "polymorph_3": "Forkie",
 
         "banish_1": "Wizzy",
         "banish_2": "Navi",
         "banish_3": "Uryk",
 
-        "hunter_1": "Stubb",
+        "hunter_1": "Kalliya",
         "hunter_2": "Tirguth",
-        "hunter_3": "Kalliya",
+        "hunter_3": "Stubb",
         "hunter_4": "",
         "hunter_5": "",
 
@@ -51,6 +51,24 @@
         "archi_shaman_diamond": "Adusham",
         "archi_shaman_triangle": "Tharaseer",
 
+        "bloodboil_group_1_1": "Kalliya",
+        "bloodboil_group_1_2": "Tirguth",
+        "bloodboil_group_1_3": "Adusham",
+        "bloodboil_group_1_4": "Andy",
+        "bloodboil_group_1_5": "Whistle",
+
+        "bloodboil_group_2_1": "Navi",
+        "bloodboil_group_2_2": "Uryk",
+        "bloodboil_group_2_3": "Wizzy",
+        "bloodboil_group_2_4": "Linnet",
+        "bloodboil_group_2_5": "Rustika",
+
+        "bloodboil_group_3_1": "Forkie",
+        "bloodboil_group_3_2": "Binky",
+        "bloodboil_group_3_3": "Relentlez",
+        "bloodboil_group_3_4": "Maccy",
+        "bloodboil_group_3_5": "Enryk",
+
         "cube_a": "Avei",
         "cube_b": "Rustika",
         "cube_c": "Brovo",
@@ -60,24 +78,7 @@
         "cube_b_backup": "Navi",
         "cube_c_backup": "Orrio",
         "cube_d_backup": "Hipo",
-        "cube_e_backup": "Ysh",
-
-        "bloodboil_group_1_1": "Stubb",
-        "bloodboil_group_1_2": "Tirguth",
-        "bloodboil_group_1_3": "Adusham",
-        "bloodboil_group_1_4": "Andy",
-        "bloodboil_group_1_5": "Whistle",
-        "bloodboil_group_2_1": "Navi",
-        "bloodboil_group_2_2": "Uryk",
-        "bloodboil_group_2_3": "Rustika",
-        "bloodboil_group_2_4": "Linnet",
-        "bloodboil_group_2_5": "Ysh",
-        "bloodboil_group_3_1": "Forkie",
-        "bloodboil_group_3_2": "Relentlez",
-        "bloodboil_group_3_3": "Wizzy",
-        "bloodboil_group_3_4": "Maccy",
-        "bloodboil_group_3_5": "Enryk"
-
+        "cube_e_backup": "Ysh"
     },
     "additional_tags": {
         "heroism_highkingmaulgar": "Heroism - On pull",
