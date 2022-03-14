@@ -1,8 +1,8 @@
 Supremus
 --------------------
 {tank} MT: <tank_3> - (<healer_1> + <healer_2>) (MD: <hunter_1>)
-{tank} Soak: <tank_2> - (<healer_5> + <healer_druid>) (MD: <hunter_2>)
-{tank} Soak: <tank_1> - (<healer_3> + <healer_druid>) (MD: <hunter_3>)
+{tank} Soak: <tank_1> - (<healer_3> + <healer_druid>) (MD: <hunter_2>)
+{tank} Soak: <tank_2> - (<healer_5> + <healer_druid>) (MD: <hunter_3>)
 
 |cPurplePhase 1:|r
 - Keep the tanks topped
