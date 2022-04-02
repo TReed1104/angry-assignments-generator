@@ -21,7 +21,7 @@ Illidan Stormrage
     - Avoid beam {spell 40018}, can move through Blue fire
     - Face away from raid, Move from green fire
 {dps} melee start East
-{icon 40585} {spell 40585} Healer: {healer} <healer_4> - Spam fast heals
+{icon 40585} {spell 40585} Healer: {healer} (<healer_4> + <healer_5>)
 {icon 40598} {spell 40598} - 10 ya radius
     {diamond}        {triangle}: Group 3
   /    \      {star}: Group 4
