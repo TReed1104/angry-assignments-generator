@@ -1,13 +1,13 @@
 Council of the Illidari
 --------------------
-{skull} |cPaladinGathios|r: {tank} <tank_1> - (<healer_1> + <healer_2>)
+{skull} |cPaladinGathios|r: {tank} <tank_1> - (<healer_1> + <healer_5>)
 {cross} |cRogueVeras|r: {tank} <tank_2> - (<healer_3>)
-{square} |cPriestMalande|r: {tank} <tank_3> - (<healer_5>)
+{square} |cPriestMalande|r: {tank} <tank_3> - (<healer_2>)
 {moon} |cMageZerevor|r: {tank} <tank_mage> - (<healer_6>)
 
 {moon} |cMageZerevor|r MD: <hunter_1> -> <tank_mage> (|cRedNO ARCANE SHOT|r)
 {skull} |cPaladinGathios|r MD: <hunter_2> -> <tank_1>
-{square} |cPriestMalande|r MD: <hunter_3> -> <tank_2>
+{cross} |cRogueVeras|r MD: <hunter_3> -> <tank_2>
 
 - {icon 41472} {spell 41472} & {icon 41485} {spell 41485} Healer: <healer_3>
 
@@ -15,8 +15,8 @@ Council of the Illidari
 
 {square} |cPriestMalande|r:
 {icon 41455} {spell 41455}
-Melee Interupts: <interrupt_1>, <interrupt_2>
-Caster Interupts: <interrupt_3>, <interrupt_4>
+Melee Interupts: <interrupt_1>
+Caster Interupts: <interrupt_4>, <interrupt_5>
 |credInterupts - check|r {icon 41451}|cBlueBoSW|r/{icon 41450}|cBlueBoP|r so it goes through
 {icon 41475} {spell 41475} - don't kill yourself
 
