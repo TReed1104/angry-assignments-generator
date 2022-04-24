@@ -23,9 +23,9 @@ Illidan Stormrage
 {dps} melee start East
 {icon 40585} {spell 40585} Healer: {healer} (<healer_4> + <healer_5>)
 {icon 40598} {spell 40598} - 10 ya radius
-    {diamond}        {triangle}: Group 3
+    {diamond}        {diamond}: Group 3
   /    \      {star}: Group 4
- /      \     {diamond}: Group 5
+ /      \     {triangle}: Group 5
 {triangle} --  {star}
 
 |cPurplePhase 4:|r

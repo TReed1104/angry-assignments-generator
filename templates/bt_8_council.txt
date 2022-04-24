@@ -7,7 +7,7 @@ Council of the Illidari
 
 {moon} |cMageZerevor|r MD: <hunter_1> -> <tank_mage> (|cRedNO ARCANE SHOT|r)
 {skull} |cPaladinGathios|r MD: <hunter_2> -> <tank_1>
-{cross} |cRogueVeras|r MD: <hunter_3> -> <tank_2>
+{cross} |cRogueVeras|r MD: <hunter_3> -> <tank_3>
 
 - {icon 41472} {spell 41472} & {icon 41485} {spell 41485} Healer: <healer_3>
 
@@ -16,7 +16,7 @@ Council of the Illidari
 {square} |cPriestMalande|r:
 {icon 41455} {spell 41455}
 Melee Interupts: <interrupt_1>
-Caster Interupts: <interrupt_4>, <interrupt_5>
+Caster Interupts: <interrupt_4>, <interrupt_5>, <interrupt_6>
 |credInterupts - check|r {icon 41451}|cBlueBoSW|r/{icon 41450}|cBlueBoP|r so it goes through
 {icon 41475} {spell 41475} - don't kill yourself
 
