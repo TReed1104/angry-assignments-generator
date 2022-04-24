@@ -1,14 +1,14 @@
 {
     "assignments": {
         "tank_1": "Koz",
-        "tank_2": "Avei",
-        "tank_3": "Felthus",
+        "tank_2": "Brovo",
+        "tank_3": "Avei",
         "tank_4": "",
 
-        "healer_1": "Andy",
-        "healer_2": "Sucidnicon",
-        "healer_3": "Cinder",
-        "healer_4": "Perdis",
+        "healer_1": "Mirian",
+        "healer_2": "Andy",
+        "healer_3": "Perdis",
+        "healer_4": "Whistle",
         "healer_5": "Enryk",
         "healer_6": "Maccy",
         "healer_7": "",
@@ -16,14 +16,14 @@
 
         "interrupt_1": "Larky",
         "interrupt_2": "Orrio",
-        "interrupt_3": "Killgem",
+        "interrupt_3": "Forkie",
         "interrupt_4": "Binky",
-        "interrupt_5": "Relentlez",
+        "interrupt_5": "Ysh",
         "interrupt_6": "Adusham",
         "interrupt_7": "",
         "interrupt_8": "",
 
-        "polymorph_1": "Relentlez",
+        "polymorph_1": "Forkie",
         "polymorph_2": "Binky",
         "polymorph_3": "",
 
