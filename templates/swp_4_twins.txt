@@ -1,2 +1,4 @@
-Twins
+Eredar Twins
 --------------------
+
+<heroism_twins>
