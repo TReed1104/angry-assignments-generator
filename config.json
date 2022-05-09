@@ -1,7 +1,7 @@
 {
     "assignments": {
         "tank_1": "Jim",
-        "tank_2": "",
+        "tank_2": "Brovo",
         "tank_3": "Felthus",
         "tank_4": "",
 
@@ -51,9 +51,17 @@
         "archi_shaman_diamond": "Tharaseer",
         "archi_shaman_triangle": "Whistle",
 
-        "bloodboil_group_1": [ "Stubb", "Kalliya", "Tirguth", "Linnet", "Whistle"],
-        "bloodboil_group_2": [ "Navi", "Uryk", "Wizzy", "Rustika", "Ysh"],
-        "bloodboil_group_3": [ "Perdis", "Relentlez", "Binky", "Maccy", "Enryk"],
+        "bloodboil_group_1": [ "Stubb", "Kalliya", "Tirguth", "Linnet", "Whistle" ],
+        "bloodboil_group_2": [ "Navi", "Uryk", "Wizzy", "Rustika", "Ysh" ],
+        "bloodboil_group_3": [ "Perdis", "Relentlez", "Binky", "Maccy", "Enryk" ],
+
+        "kalecgos_group_1": ["Enryk", "Relentlez", "Linnet", "Mirian", "Veganwolf", "Brovo"],
+        "kalecgos_group_2": ["Ysh", "Rustika", "Navi", "Wizzy", "Uryk", "Perdis"],
+        "kalecgos_group_3": ["Whistle", "Forkie", "Larky", "Tirguth", "Andy", "Jim"],
+        "kalecgos_group_4": ["Adusham", "Maccy", "Killgem", "Tharaseer", "Sucidnicon", "Stubb"],
+
+        "brutallus_group_1": ["", "", "", "", "", "", ""],
+        "brutallus_group_2": ["", "", "", "", "", "", ""],
 
         "cube_a": "",
         "cube_b": "",
@@ -94,12 +102,12 @@
         "heroism_mother": "Heroism - 15 Seconds into fight",
         "heroism_council": "Heroism - After the first spell reflect on Gathios",
         "heroism_illidan": "Heroism - 15 Seconds into Phase 2",
-        "heroism_kalecgos": "",
-        "heroism_brutallus": "",
-        "heroism_felmyst": "",
-        "heroism_twins": "",
-        "heroism_muru": "",
-        "heroism_kiljaeden": ""
+        "heroism_kalecgos": "Heroism - 10 Seconds into fight",
+        "heroism_brutallus": "Heroism - 15 Seconds into fight",
+        "heroism_felmyst": "Heroism - 10 Seconds into fight",
+        "heroism_twins": "Heroism - 10 Seconds into fight",
+        "heroism_muru": "Heroism - TBD",
+        "heroism_kiljaeden": "Heroism - TBD"
     },
     "roster": {
         "Jim": "Warrior",
