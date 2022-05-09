@@ -1,6 +1,6 @@
 Gurtogg Bloodboil
 --------------------
-{tank} <tank_1> - (<healer_1> + <healer_4> + <healer_6>)
+{tank} <tank_1> - (<healer_1> + <healer_2> + <healer_6>)
 
 MD on pull: <hunter_1>, <hunter_2>, <hunter_3>
 
