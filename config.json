@@ -107,7 +107,13 @@
         "heroism_reliquary": "Heroism - Phase 3",
         "heroism_mother": "Heroism - 15 Seconds into fight",
         "heroism_council": "Heroism - After the first spell reflect on Gathios",
-        "heroism_illidan": "Heroism - 15 Seconds into Phase 2"
+        "heroism_illidan": "Heroism - 15 Seconds into Phase 2",
+        "heroism_kalecgos": "",
+        "heroism_brutallus": "",
+        "heroism_felmyst": "",
+        "heroism_twins": "",
+        "heroism_muru": "",
+        "heroism_kiljaeden": ""
     },
     "roster": {
         "Jim": "Warrior",
