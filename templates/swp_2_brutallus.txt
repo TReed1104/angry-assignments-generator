@@ -1,4 +1,16 @@
 Brutallus
 --------------------
+{tank} <tank_1>
+{tank} <tank_2>
+{tank} <tank_3>
+<healer_1> + <healer_2> - On Current Tank (Target-of-target)
+
+Soak Group 1: [brutallus_group_1]
+Soak Group 2: [brutallus_group_1]
+
+|cPurpleTactics:|r
+- Tank Healers be wary of spike damage from {icon 45185} {spell 45185}
+- Tanks swap every 3 {icon 45150} {spell 45150}
+- |cRedRun away to the side/behind Brutallus with {icon 45141} {spell 45141}|r
 
 <heroism_brutallus>
