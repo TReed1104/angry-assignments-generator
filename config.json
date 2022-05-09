@@ -51,23 +51,9 @@
         "archi_shaman_diamond": "Tharaseer",
         "archi_shaman_triangle": "Whistle",
 
-        "bloodboil_group_1_1": "Stubb",
-        "bloodboil_group_1_2": "Kalliya",
-        "bloodboil_group_1_3": "Tirguth",
-        "bloodboil_group_1_4": "Linnet",
-        "bloodboil_group_1_5": "Whistle",
-
-        "bloodboil_group_2_1": "Navi",
-        "bloodboil_group_2_2": "Uryk",
-        "bloodboil_group_2_3": "Wizzy",
-        "bloodboil_group_2_4": "Rustika",
-        "bloodboil_group_2_5": "Ysh",
-
-        "bloodboil_group_3_1": "Perdis",
-        "bloodboil_group_3_2": "Relentlez",
-        "bloodboil_group_3_3": "Binky",
-        "bloodboil_group_3_4": "Maccy",
-        "bloodboil_group_3_5": "Enryk",
+        "bloodboil_group_1": [ "Stubb", "Kalliya", "Tirguth", "Linnet", "Whistle"],
+        "bloodboil_group_2": [ "Navi", "Uryk", "Wizzy", "Rustika", "Ysh"],
+        "bloodboil_group_3": [ "Perdis", "Relentlez", "Binky", "Maccy", "Enryk"],
 
         "cube_a": "",
         "cube_b": "",
