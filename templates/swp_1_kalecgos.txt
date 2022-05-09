@@ -1,7 +1,7 @@
 Kalecgos
 --------------------
-Kalecgos Tank: <tank_3>
-Sathrovarr Tank: <tank_1>
+Kalecgos Tank: <tank_3> - (<healer_1> + <healer_3>)
+Sathrovarr Tank: <tank_1> - (<healer_2> + <healer_4>)
 
 |cPurplePortal Groups:|r
 {circle}: [kalecgos_group_1]
@@ -14,7 +14,6 @@ Sathrovarr Tank: <tank_1>
 - Stay spread 8 yards at all times
 - Use portal when a group member is teleported
 - |cRedWatch out for {icon 45006} {spell 45006}|r
-
 
 |cPurpleShadow Realm:|r
 - Stack for healing
