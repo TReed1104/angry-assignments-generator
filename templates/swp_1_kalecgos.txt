@@ -1,7 +1,7 @@
 Kalecgos
 --------------------
-Kalecgos Tank: <tank_3> - (<healer_1> + <healer_3>)
-Sathrovarr Tank: <tank_1> - (<healer_2> + <healer_4>)
+Tank Order: <tank_3>, <tank_1>, <tank_2>
+Tank Healers: <healer_1>, <healer_2>, <healer_druid>
 
 |cPurplePortal Groups:|r
 {circle}: [kalecgos_group_1]
